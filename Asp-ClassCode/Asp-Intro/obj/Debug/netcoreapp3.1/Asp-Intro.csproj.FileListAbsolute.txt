@@ -1,0 +1,96 @@
+C:\Users\OMEN\OneDrive\İş masası\ASP.NET\ASP.NET-Intro\Asp-Intro\Asp-Intro\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\OMEN\OneDrive\İş masası\ASP.NET\ASP.NET-Intro\Asp-Intro\Asp-Intro\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\OMEN\OneDrive\İş masası\ASP.NET\ASP.NET-Intro\Asp-Intro\Asp-Intro\bin\Debug\netcoreapp3.1\Asp-Intro.exe
+C:\Users\OMEN\OneDrive\İş masası\ASP.NET\ASP.NET-Intro\Asp-Intro\Asp-Intro\bin\Debug\netcoreapp3.1\Asp-Intro.deps.json
+C:\Users\OMEN\OneDrive\İş masası\ASP.NET\ASP.NET-Intro\Asp-Intro\Asp-Intro\bin\Debug\netcoreapp3.1\Asp-Intro.runtimeconfig.json
+C:\Users\OMEN\OneDrive\İş masası\ASP.NET\ASP.NET-Intro\Asp-Intro\Asp-Intro\bin\Debug\netcoreapp3.1\Asp-Intro.runtimeconfig.dev.json
+C:\Users\OMEN\OneDrive\İş masası\ASP.NET\ASP.NET-Intro\Asp-Intro\Asp-Intro\bin\Debug\netcoreapp3.1\Asp-Intro.dll
+C:\Users\OMEN\OneDrive\İş masası\ASP.NET\ASP.NET-Intro\Asp-Intro\Asp-Intro\bin\Debug\netcoreapp3.1\Asp-Intro.pdb
+C:\Users\OMEN\OneDrive\İş masası\ASP.NET\ASP.NET-Intro\Asp-Intro\Asp-Intro\obj\Debug\netcoreapp3.1\Asp-Intro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OMEN\OneDrive\İş masası\ASP.NET\ASP.NET-Intro\Asp-Intro\Asp-Intro\obj\Debug\netcoreapp3.1\Asp-Intro.AssemblyInfoInputs.cache
+C:\Users\OMEN\OneDrive\İş masası\ASP.NET\ASP.NET-Intro\Asp-Intro\Asp-Intro\obj\Debug\netcoreapp3.1\Asp-Intro.AssemblyInfo.cs
+C:\Users\OMEN\OneDrive\İş masası\ASP.NET\ASP.NET-Intro\Asp-Intro\Asp-Intro\obj\Debug\netcoreapp3.1\Asp-Intro.csproj.CoreCompileInputs.cache
+C:\Users\OMEN\OneDrive\İş masası\ASP.NET\ASP.NET-Intro\Asp-Intro\Asp-Intro\obj\Debug\netcoreapp3.1\Asp-Intro.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\OMEN\OneDrive\İş masası\ASP.NET\ASP.NET-Intro\Asp-Intro\Asp-Intro\obj\Debug\netcoreapp3.1\staticwebassets\Asp-Intro.StaticWebAssets.Manifest.cache
+C:\Users\OMEN\OneDrive\İş masası\ASP.NET\ASP.NET-Intro\Asp-Intro\Asp-Intro\obj\Debug\netcoreapp3.1\staticwebassets\Asp-Intro.StaticWebAssets.xml
+C:\Users\OMEN\OneDrive\İş masası\ASP.NET\ASP.NET-Intro\Asp-Intro\Asp-Intro\obj\Debug\netcoreapp3.1\scopedcss\bundle\Asp-Intro.styles.css
+C:\Users\OMEN\OneDrive\İş masası\ASP.NET\ASP.NET-Intro\Asp-Intro\Asp-Intro\obj\Debug\netcoreapp3.1\Asp-Intro.RazorTargetAssemblyInfo.cache
+C:\Users\OMEN\OneDrive\İş masası\ASP.NET\ASP.NET-Intro\Asp-Intro\Asp-Intro\obj\Debug\netcoreapp3.1\Asp-Intro.dll
+C:\Users\OMEN\OneDrive\İş masası\ASP.NET\ASP.NET-Intro\Asp-Intro\Asp-Intro\obj\Debug\netcoreapp3.1\Asp-Intro.pdb
+C:\Users\OMEN\OneDrive\İş masası\ASP.NET\ASP.NET-Intro\Asp-Intro\Asp-Intro\obj\Debug\netcoreapp3.1\Asp-Intro.genruntimeconfig.cache
+C:\Users\OMEN\OneDrive\İş masası\ASP.NET\ASP.NET-Intro\Asp-Intro\Asp-Intro\obj\Debug\netcoreapp3.1\Asp-Intro.csproj.AssemblyReference.cache
+C:\Users\OMEN\OneDrive\İş masası\ASP.NET\ASP.NET-Intro\Asp-Intro\Asp-Intro\bin\Debug\netcoreapp3.1\Asp-Intro.Views.dll
+C:\Users\OMEN\OneDrive\İş masası\ASP.NET\ASP.NET-Intro\Asp-Intro\Asp-Intro\bin\Debug\netcoreapp3.1\Asp-Intro.Views.pdb
+C:\Users\OMEN\OneDrive\İş masası\ASP.NET\ASP.NET-Intro\Asp-Intro\Asp-Intro\obj\Debug\netcoreapp3.1\Asp-Intro.RazorAssemblyInfo.cache
+C:\Users\OMEN\OneDrive\İş masası\ASP.NET\ASP.NET-Intro\Asp-Intro\Asp-Intro\obj\Debug\netcoreapp3.1\Asp-Intro.RazorAssemblyInfo.cs
+C:\Users\OMEN\OneDrive\İş masası\ASP.NET\ASP.NET-Intro\Asp-Intro\Asp-Intro\obj\Debug\netcoreapp3.1\Asp-Intro.TagHelpers.input.cache
+C:\Users\OMEN\OneDrive\İş masası\ASP.NET\ASP.NET-Intro\Asp-Intro\Asp-Intro\obj\Debug\netcoreapp3.1\Asp-Intro.TagHelpers.output.cache
+C:\Users\OMEN\OneDrive\İş masası\ASP.NET\ASP.NET-Intro\Asp-Intro\Asp-Intro\obj\Debug\netcoreapp3.1\Asp-Intro.RazorCoreGenerate.cache
+C:\Users\OMEN\OneDrive\İş masası\ASP.NET\ASP.NET-Intro\Asp-Intro\Asp-Intro\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\OMEN\OneDrive\İş masası\ASP.NET\ASP.NET-Intro\Asp-Intro\Asp-Intro\obj\Debug\netcoreapp3.1\Asp-Intro.RazorTargetAssemblyInfo.cs
+C:\Users\OMEN\OneDrive\İş masası\ASP.NET\ASP.NET-Intro\Asp-Intro\Asp-Intro\obj\Debug\netcoreapp3.1\Asp-Intro.Views.pdb
+C:\Users\OMEN\OneDrive\İş masası\ASP.NET\ASP.NET-Intro\Asp-Intro\Asp-Intro\obj\Debug\netcoreapp3.1\Asp-Intro.csproj.CopyComplete
+C:\Users\OMEN\OneDrive\İş masası\HomeWork ASP.NET\ASP.NET-Intro\Asp-Intro\Asp-Intro\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\OMEN\OneDrive\İş masası\HomeWork ASP.NET\ASP.NET-Intro\Asp-Intro\Asp-Intro\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\OMEN\OneDrive\İş masası\HomeWork ASP.NET\ASP.NET-Intro\Asp-Intro\Asp-Intro\bin\Debug\netcoreapp3.1\Asp-Intro.exe
+C:\Users\OMEN\OneDrive\İş masası\HomeWork ASP.NET\ASP.NET-Intro\Asp-Intro\Asp-Intro\bin\Debug\netcoreapp3.1\Asp-Intro.deps.json
+C:\Users\OMEN\OneDrive\İş masası\HomeWork ASP.NET\ASP.NET-Intro\Asp-Intro\Asp-Intro\bin\Debug\netcoreapp3.1\Asp-Intro.runtimeconfig.json
+C:\Users\OMEN\OneDrive\İş masası\HomeWork ASP.NET\ASP.NET-Intro\Asp-Intro\Asp-Intro\bin\Debug\netcoreapp3.1\Asp-Intro.runtimeconfig.dev.json
+C:\Users\OMEN\OneDrive\İş masası\HomeWork ASP.NET\ASP.NET-Intro\Asp-Intro\Asp-Intro\bin\Debug\netcoreapp3.1\Asp-Intro.dll
+C:\Users\OMEN\OneDrive\İş masası\HomeWork ASP.NET\ASP.NET-Intro\Asp-Intro\Asp-Intro\bin\Debug\netcoreapp3.1\Asp-Intro.pdb
+C:\Users\OMEN\OneDrive\İş masası\HomeWork ASP.NET\ASP.NET-Intro\Asp-Intro\Asp-Intro\bin\Debug\netcoreapp3.1\Asp-Intro.Views.dll
+C:\Users\OMEN\OneDrive\İş masası\HomeWork ASP.NET\ASP.NET-Intro\Asp-Intro\Asp-Intro\bin\Debug\netcoreapp3.1\Asp-Intro.Views.pdb
+C:\Users\OMEN\OneDrive\İş masası\HomeWork ASP.NET\ASP.NET-Intro\Asp-Intro\Asp-Intro\obj\Debug\netcoreapp3.1\Asp-Intro.csproj.AssemblyReference.cache
+C:\Users\OMEN\OneDrive\İş masası\HomeWork ASP.NET\ASP.NET-Intro\Asp-Intro\Asp-Intro\obj\Debug\netcoreapp3.1\Asp-Intro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OMEN\OneDrive\İş masası\HomeWork ASP.NET\ASP.NET-Intro\Asp-Intro\Asp-Intro\obj\Debug\netcoreapp3.1\Asp-Intro.AssemblyInfoInputs.cache
+C:\Users\OMEN\OneDrive\İş masası\HomeWork ASP.NET\ASP.NET-Intro\Asp-Intro\Asp-Intro\obj\Debug\netcoreapp3.1\Asp-Intro.AssemblyInfo.cs
+C:\Users\OMEN\OneDrive\İş masası\HomeWork ASP.NET\ASP.NET-Intro\Asp-Intro\Asp-Intro\obj\Debug\netcoreapp3.1\Asp-Intro.csproj.CoreCompileInputs.cache
+C:\Users\OMEN\OneDrive\İş masası\HomeWork ASP.NET\ASP.NET-Intro\Asp-Intro\Asp-Intro\obj\Debug\netcoreapp3.1\Asp-Intro.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\OMEN\OneDrive\İş masası\HomeWork ASP.NET\ASP.NET-Intro\Asp-Intro\Asp-Intro\obj\Debug\netcoreapp3.1\Asp-Intro.RazorAssemblyInfo.cache
+C:\Users\OMEN\OneDrive\İş masası\HomeWork ASP.NET\ASP.NET-Intro\Asp-Intro\Asp-Intro\obj\Debug\netcoreapp3.1\Asp-Intro.RazorAssemblyInfo.cs
+C:\Users\OMEN\OneDrive\İş masası\HomeWork ASP.NET\ASP.NET-Intro\Asp-Intro\Asp-Intro\obj\Debug\netcoreapp3.1\staticwebassets\Asp-Intro.StaticWebAssets.Manifest.cache
+C:\Users\OMEN\OneDrive\İş masası\HomeWork ASP.NET\ASP.NET-Intro\Asp-Intro\Asp-Intro\obj\Debug\netcoreapp3.1\staticwebassets\Asp-Intro.StaticWebAssets.xml
+C:\Users\OMEN\OneDrive\İş masası\HomeWork ASP.NET\ASP.NET-Intro\Asp-Intro\Asp-Intro\obj\Debug\netcoreapp3.1\scopedcss\bundle\Asp-Intro.styles.css
+C:\Users\OMEN\OneDrive\İş masası\HomeWork ASP.NET\ASP.NET-Intro\Asp-Intro\Asp-Intro\obj\Debug\netcoreapp3.1\Asp-Intro.TagHelpers.input.cache
+C:\Users\OMEN\OneDrive\İş masası\HomeWork ASP.NET\ASP.NET-Intro\Asp-Intro\Asp-Intro\obj\Debug\netcoreapp3.1\Asp-Intro.TagHelpers.output.cache
+C:\Users\OMEN\OneDrive\İş masası\HomeWork ASP.NET\ASP.NET-Intro\Asp-Intro\Asp-Intro\obj\Debug\netcoreapp3.1\Asp-Intro.RazorCoreGenerate.cache
+C:\Users\OMEN\OneDrive\İş masası\HomeWork ASP.NET\ASP.NET-Intro\Asp-Intro\Asp-Intro\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\OMEN\OneDrive\İş masası\HomeWork ASP.NET\ASP.NET-Intro\Asp-Intro\Asp-Intro\obj\Debug\netcoreapp3.1\Asp-Intro.RazorTargetAssemblyInfo.cache
+C:\Users\OMEN\OneDrive\İş masası\HomeWork ASP.NET\ASP.NET-Intro\Asp-Intro\Asp-Intro\obj\Debug\netcoreapp3.1\Asp-Intro.RazorTargetAssemblyInfo.cs
+C:\Users\OMEN\OneDrive\İş masası\HomeWork ASP.NET\ASP.NET-Intro\Asp-Intro\Asp-Intro\obj\Debug\netcoreapp3.1\Asp-Intro.Views.pdb
+C:\Users\OMEN\OneDrive\İş masası\HomeWork ASP.NET\ASP.NET-Intro\Asp-Intro\Asp-Intro\obj\Debug\netcoreapp3.1\Asp-Intro.dll
+C:\Users\OMEN\OneDrive\İş masası\HomeWork ASP.NET\ASP.NET-Intro\Asp-Intro\Asp-Intro\obj\Debug\netcoreapp3.1\Asp-Intro.pdb
+C:\Users\OMEN\OneDrive\İş masası\HomeWork ASP.NET\ASP.NET-Intro\Asp-Intro\Asp-Intro\obj\Debug\netcoreapp3.1\Asp-Intro.genruntimeconfig.cache
+C:\Users\OMEN\OneDrive\İş masası\HomeWork ASP.NET\ASP.NET-Intro\Asp-Intro\Asp-Intro\obj\Debug\netcoreapp3.1\Asp-Intro.csproj.CopyComplete
+C:\Users\OMEN\OneDrive\İş masası\HomeWork ASP.NET\ASP.NET-Intro\Asp-ClassCode\Asp-Intro\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\OMEN\OneDrive\İş masası\HomeWork ASP.NET\ASP.NET-Intro\Asp-ClassCode\Asp-Intro\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\OMEN\OneDrive\İş masası\HomeWork ASP.NET\ASP.NET-Intro\Asp-ClassCode\Asp-Intro\bin\Debug\netcoreapp3.1\Asp-Intro.exe
+C:\Users\OMEN\OneDrive\İş masası\HomeWork ASP.NET\ASP.NET-Intro\Asp-ClassCode\Asp-Intro\bin\Debug\netcoreapp3.1\Asp-Intro.deps.json
+C:\Users\OMEN\OneDrive\İş masası\HomeWork ASP.NET\ASP.NET-Intro\Asp-ClassCode\Asp-Intro\bin\Debug\netcoreapp3.1\Asp-Intro.runtimeconfig.json
+C:\Users\OMEN\OneDrive\İş masası\HomeWork ASP.NET\ASP.NET-Intro\Asp-ClassCode\Asp-Intro\bin\Debug\netcoreapp3.1\Asp-Intro.runtimeconfig.dev.json
+C:\Users\OMEN\OneDrive\İş masası\HomeWork ASP.NET\ASP.NET-Intro\Asp-ClassCode\Asp-Intro\bin\Debug\netcoreapp3.1\Asp-Intro.dll
+C:\Users\OMEN\OneDrive\İş masası\HomeWork ASP.NET\ASP.NET-Intro\Asp-ClassCode\Asp-Intro\bin\Debug\netcoreapp3.1\Asp-Intro.pdb
+C:\Users\OMEN\OneDrive\İş masası\HomeWork ASP.NET\ASP.NET-Intro\Asp-ClassCode\Asp-Intro\bin\Debug\netcoreapp3.1\Asp-Intro.Views.dll
+C:\Users\OMEN\OneDrive\İş masası\HomeWork ASP.NET\ASP.NET-Intro\Asp-ClassCode\Asp-Intro\bin\Debug\netcoreapp3.1\Asp-Intro.Views.pdb
+C:\Users\OMEN\OneDrive\İş masası\HomeWork ASP.NET\ASP.NET-Intro\Asp-ClassCode\Asp-Intro\obj\Debug\netcoreapp3.1\Asp-Intro.csproj.AssemblyReference.cache
+C:\Users\OMEN\OneDrive\İş masası\HomeWork ASP.NET\ASP.NET-Intro\Asp-ClassCode\Asp-Intro\obj\Debug\netcoreapp3.1\Asp-Intro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OMEN\OneDrive\İş masası\HomeWork ASP.NET\ASP.NET-Intro\Asp-ClassCode\Asp-Intro\obj\Debug\netcoreapp3.1\Asp-Intro.AssemblyInfoInputs.cache
+C:\Users\OMEN\OneDrive\İş masası\HomeWork ASP.NET\ASP.NET-Intro\Asp-ClassCode\Asp-Intro\obj\Debug\netcoreapp3.1\Asp-Intro.AssemblyInfo.cs
+C:\Users\OMEN\OneDrive\İş masası\HomeWork ASP.NET\ASP.NET-Intro\Asp-ClassCode\Asp-Intro\obj\Debug\netcoreapp3.1\Asp-Intro.csproj.CoreCompileInputs.cache
+C:\Users\OMEN\OneDrive\İş masası\HomeWork ASP.NET\ASP.NET-Intro\Asp-ClassCode\Asp-Intro\obj\Debug\netcoreapp3.1\Asp-Intro.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\OMEN\OneDrive\İş masası\HomeWork ASP.NET\ASP.NET-Intro\Asp-ClassCode\Asp-Intro\obj\Debug\netcoreapp3.1\Asp-Intro.RazorAssemblyInfo.cache
+C:\Users\OMEN\OneDrive\İş masası\HomeWork ASP.NET\ASP.NET-Intro\Asp-ClassCode\Asp-Intro\obj\Debug\netcoreapp3.1\Asp-Intro.RazorAssemblyInfo.cs
+C:\Users\OMEN\OneDrive\İş masası\HomeWork ASP.NET\ASP.NET-Intro\Asp-ClassCode\Asp-Intro\obj\Debug\netcoreapp3.1\staticwebassets\Asp-Intro.StaticWebAssets.Manifest.cache
+C:\Users\OMEN\OneDrive\İş masası\HomeWork ASP.NET\ASP.NET-Intro\Asp-ClassCode\Asp-Intro\obj\Debug\netcoreapp3.1\staticwebassets\Asp-Intro.StaticWebAssets.xml
+C:\Users\OMEN\OneDrive\İş masası\HomeWork ASP.NET\ASP.NET-Intro\Asp-ClassCode\Asp-Intro\obj\Debug\netcoreapp3.1\scopedcss\bundle\Asp-Intro.styles.css
+C:\Users\OMEN\OneDrive\İş masası\HomeWork ASP.NET\ASP.NET-Intro\Asp-ClassCode\Asp-Intro\obj\Debug\netcoreapp3.1\Asp-Intro.TagHelpers.input.cache
+C:\Users\OMEN\OneDrive\İş masası\HomeWork ASP.NET\ASP.NET-Intro\Asp-ClassCode\Asp-Intro\obj\Debug\netcoreapp3.1\Asp-Intro.TagHelpers.output.cache
+C:\Users\OMEN\OneDrive\İş masası\HomeWork ASP.NET\ASP.NET-Intro\Asp-ClassCode\Asp-Intro\obj\Debug\netcoreapp3.1\Asp-Intro.RazorCoreGenerate.cache
+C:\Users\OMEN\OneDrive\İş masası\HomeWork ASP.NET\ASP.NET-Intro\Asp-ClassCode\Asp-Intro\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\OMEN\OneDrive\İş masası\HomeWork ASP.NET\ASP.NET-Intro\Asp-ClassCode\Asp-Intro\obj\Debug\netcoreapp3.1\Asp-Intro.RazorTargetAssemblyInfo.cache
+C:\Users\OMEN\OneDrive\İş masası\HomeWork ASP.NET\ASP.NET-Intro\Asp-ClassCode\Asp-Intro\obj\Debug\netcoreapp3.1\Asp-Intro.RazorTargetAssemblyInfo.cs
+C:\Users\OMEN\OneDrive\İş masası\HomeWork ASP.NET\ASP.NET-Intro\Asp-ClassCode\Asp-Intro\obj\Debug\netcoreapp3.1\Asp-Intro.Views.pdb
+C:\Users\OMEN\OneDrive\İş masası\HomeWork ASP.NET\ASP.NET-Intro\Asp-ClassCode\Asp-Intro\obj\Debug\netcoreapp3.1\Asp-Intro.dll
+C:\Users\OMEN\OneDrive\İş masası\HomeWork ASP.NET\ASP.NET-Intro\Asp-ClassCode\Asp-Intro\obj\Debug\netcoreapp3.1\Asp-Intro.pdb
+C:\Users\OMEN\OneDrive\İş masası\HomeWork ASP.NET\ASP.NET-Intro\Asp-ClassCode\Asp-Intro\obj\Debug\netcoreapp3.1\Asp-Intro.genruntimeconfig.cache
+C:\Users\OMEN\OneDrive\İş masası\HomeWork ASP.NET\ASP.NET-Intro\Asp-ClassCode\Asp-Intro\obj\Debug\netcoreapp3.1\Asp-Intro.csproj.CopyComplete
